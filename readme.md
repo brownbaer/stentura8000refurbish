@@ -1,5 +1,5 @@
 # Stentura 8000 Refurbish 
-
+![stentura8000refurbish1](https://github.com/brownbaer/stentura8000refurbish/blob/main/20221121_080633.jpg)
 This project is to help users refurbish older machine that have extremely basic serial connections and upgrade them to have a singular power and serial connection through an Arduino's USB port. 
 
 Features of this project are:
